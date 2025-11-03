@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "671297e852be3e2dbea52ed0"
+  },
+  "userId": {
+    "$oid": "6712972d52be3e2dbea52e53"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "67128dc8748ae05321422857"
+      },
+      "stockId": {
+        "$oid": "67128dc8748ae05321422858"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67129c4889921128994e16da"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67128bbe748ae05321422851"
+      },
+      "stockId": {
+        "$oid": "67128bbe748ae05321422853"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67129c4889921128994e16db"
+      }
+    }
+  ],
+  "totalPrice": 889800,
+  "status": "ارسال شده",
+  "createdAt": {
+    "$date": "2024-10-18T17:16:24.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T17:35:04.376Z"
+  },
+  "__v": 0,
+  "paymentId": {
+    "$oid": "6712983352be3e2dbea52ee3"
+  },
+  "shoppingInfoId": {
+    "$oid": "6712988e52be3e2dbea52ee8"
+  }
+},
+{
+  "_id": {
+    "$oid": "67129bd589921128994e16cb"
+  },
+  "userId": {
+    "$oid": "6712972d52be3e2dbea52e53"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "6712861e748ae05321422836"
+      },
+      "stockId": {
+        "$oid": "6712861e748ae05321422838"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "67129bd589921128994e16cc"
+      }
+    }
+  ],
+  "totalPrice": 150000,
+  "status": "پرداخت نشده",
+  "createdAt": {
+    "$date": "2024-10-18T17:33:09.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T17:33:09.133Z"
+  },
+  "__v": 0
+}]
